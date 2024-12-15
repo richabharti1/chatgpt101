@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "mv3-parcel-webext-template",
-  "description": "Extension Description",
+  "name": "ChatGPT-101",
+  "description": "Example Extension to call ChatGPT API",
   "version": "0.0.0",
   "icons": {
     "16": "images/icon256.png?width=16",

@@ -1,7 +1,7 @@
 {
-  "name": "mv3-parcel-webext-template",
+  "name": "chatgpt-101",
   "version": "0.0.0",
-  "description": "Chrome Extension boilerplate for manifest v3. With React.",
+  "description": "Simple Chrome Extension using ChatGPT API",
   "scripts": {
     "start": "parcel watch src/manifest.json --host localhost",
     "prebuild": "rimraf dist .parcel-cache",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onikienko/mv3-parcel-webext-template.git"
+    "url": "git+https://github.com/richabharti1/chatgpt101.git"
   },
-  "author": "Mykhailo Onikiienko <michael.onikienko@gmail.com> (https://github.com/onikienko)",
+  "author": "Kumar Vishal<richabharti1@gmail.com> (https://github.com/richabharti1)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/onikienko/mv3-parcel-webext-template/issues"
+    "url": "https://github.com/richabharti1/chatgpt101/issues"
   },
-  "homepage": "https://github.com/onikienko/mv3-parcel-webext-template#readme",
+  "homepage": "https://github.com/richabharti1/chatgpt101#readme",
   "devDependencies": {
     "@parcel/config-webextension": "^2.13.2",
     "@release-it/bumper": "^6.0.1",
